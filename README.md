@@ -1,4 +1,4 @@
-Hi, I’m @MSUBs-dev, Eric from the Montana State University Bookstore.  I primarily work in automating repetitive tasks, however I've recently started branching into standalone application development.  I’m interested in robotics and mechanical design, which is what my Degree is in.  I primarily work in Python, however I have 8 years of Java programming background.
+Hi, I’m @MSUBs-dev, Eric from the Montana State University Bookstore.  I primarily work in automating repetitive tasks, however I've recently started branching into standalone application development.  I staerted programming to be on a robotics team, and never really stopped.  I primarily work in Python, however I have 8 years of Java programming background and am no stranger to SQL and web development.
 - 🌱 I’m currently learning about SLAM, pathfindnig, and various types of machine learning.  And Rust, very slowly...
 - 📫 How to reach me: erickapalka@montana.edu, or contact the MSU Bookstore in Bozeman MT and ask for the software developer
 
